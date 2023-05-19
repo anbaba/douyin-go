@@ -3,7 +3,7 @@ package douyingo
 import (
 	"context"
 
-	"github.com/zhangshuai/douyin-go/conf"
+	"github.com/anbaba/douyin-go/conf"
 )
 
 // PoiSearchKeywordReq POI信息请求

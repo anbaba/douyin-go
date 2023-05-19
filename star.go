@@ -3,7 +3,7 @@ package douyingo
 import (
 	"context"
 
-	"github.com/zhangshuai/douyin-go/conf"
+	"github.com/anbaba/douyin-go/conf"
 )
 
 // StarHotListReq 抖音星图达人热榜请求

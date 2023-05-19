@@ -1,4 +1,4 @@
-module github.com/zhangshuai/douyin-go
+module github.com/anbaba/douyin-go
 
 go 1.14
 
